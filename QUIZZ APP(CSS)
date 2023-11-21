@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: blanchedalmond;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgb(199, 50, 110);
+    border-radius: 5px;
+    display:grid;
+    align-items: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .next-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color:aliceblue;
+    background-color:black;
+  }
+  
+  .result {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  #mark
+  {
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+  }
