@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  <div class="container">
+    <h1>Quiz App</h1>
+    <div id="question-container" class="question-container"></div>
+    <div id="answer-buttons" class="answer-buttons"></div>
+    <button id="next-button" class="next-button">Next</button>
+    <div id="result" class="result"></div>
+  </div>
+  <script src="newwwjs.js"></script>
+  <div id="mark">
+    <marquee>
+        <h1>BONUS 25% CASH FOR USERS WHO SCORED 10/10 </h1>
+    </marquee>
+  </div>
+</body>
+</html>
